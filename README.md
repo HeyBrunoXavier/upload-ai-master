@@ -59,5 +59,5 @@ Repita esse passo para `../web`.
 <div id='contatos' align="center">
   <p align="center">Made with 💜 by Bruno Xavier</p>
   <div id="contatos" align="center">
-    <a href="https://www.linkedin.com/in/bruno-xavier/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/bruno-xavier-48a038167/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
